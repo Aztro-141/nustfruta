@@ -1,0 +1,18 @@
+export const hostelNames: readonly string[] = [
+  "Ammar", 
+  "Amna", 
+  "Attar", 
+  "Ayesha", 
+  "Beruni", 
+  "Fatima",
+  "Ghazali", 
+  "Hajveri", 
+  "Johar", 
+  "Khadija", 
+  "Liaquat", 
+  "Razi", 
+  "Rehmat", 
+  "Rumi", 
+  "Zakiriya", 
+  "Zainab", 
+];
